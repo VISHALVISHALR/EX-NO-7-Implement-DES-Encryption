@@ -51,8 +51,8 @@ int main()
 ```
 
 ## Output:
+<img width="1343" height="612" alt="image" src="https://github.com/user-attachments/assets/63f7e259-b29f-40d6-8c2c-9f1274b190ca" />
 
-<img width="1262" height="627" alt="image" src="https://github.com/user-attachments/assets/4d40f82d-7eea-41de-9ee3-451220fa2004" />
 
 
 ## Result:
